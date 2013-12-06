@@ -31,5 +31,9 @@ To Run and view code:
  Run the server: $ rails s
  
  View the page on localhost:3000 is the normal default
+
+ # Or use Foreman
+  - gem install foreman
+  - $ foreman start
  
  Good to go!
